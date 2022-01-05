@@ -6,6 +6,8 @@ import time
 
 #Test comment added
 
+#Changing directly in gitHub
+
 screen = Screen()
 screen.setup(width=600, height=600)
 screen.bgcolor("black")
