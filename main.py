@@ -4,6 +4,8 @@ from food import Food
 from score import Score
 import time
 
+#Test comment added
+
 screen = Screen()
 screen.setup(width=600, height=600)
 screen.bgcolor("black")
